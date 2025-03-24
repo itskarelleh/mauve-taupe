@@ -2,7 +2,7 @@
 A soothing, accessible, and modern color theme for Visual Studio Code. Designed for those who want a break from traditional dark themes and overly saturated pink themes, Mauve Taupe offers a balanced and elegant color palette that’s easy on the eyes.
 
 ## Mauve Taupe Preview
-![Mauve Taupe Color Theme](mauve-taupe-v1.png)
+![Mauve Taupe Color Theme](mauve-taupe-v0.png)
 
 ## Why Mauve Taupe?
 I created Mauve Taupe because I was tired of seeing the same traditional dark themes in the marketplace. While there are some pink themes available, many are either too highly saturated or lack accessibility considerations. Mauve Taupe strikes the perfect balance between aesthetics and functionality, offering a calming yet vibrant color scheme that works for everyone.
